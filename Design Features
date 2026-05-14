@@ -1,0 +1,50 @@
+
+## 🎨 Design Features
+
+✨ **Professional Blue Theme** - Clean and modern design
+📱 **Fully Responsive** - Works perfectly on desktop, tablet, and mobile
+⚡ **Smooth Animations** - Subtle transitions and scroll effects
+🔧 **Interactive Elements** - Hover effects and smooth navigation
+📊 **Modern Layout** - Grid-based design with balanced spacing
+
+## 📋 Portfolio Sections
+
+1. **Hero Section** - Eye-catching introduction with profile photo
+2. **About Me** - Professional summary and interests
+3. **Experience** - Current role at Accord Tech Solutions
+4. **Education** - HSC with GPA 4.42 (Harun Mollah Degree College, 2021)
+5. **Skills** - 10 professional skills with icons
+6. **Projects** - US-Based digital marketing projects
+7. **Contact** - Multiple contact methods
+
+## 🚀 Quick Start
+
+### To view locally:
+1. Clone this repository
+2. Replace `profile.jpg` with your actual profile photo
+3. Open `index.html` in your web browser
+
+### To deploy on GitHub Pages:
+1. Go to repository Settings
+2. Scroll to "GitHub Pages"
+3. Select `main` branch as source
+4. Your portfolio will be live at: `https://touhidahamedats-droid.github.io/resume-portfolio`
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Semantic markup
+- **CSS3** - Modern styling with CSS Grid and Flexbox
+- **Vanilla JavaScript** - No dependencies
+- **Font Awesome** - Professional icons
+
+## 📝 Customization
+
+### Update your information:
+- Edit `index.html` to update your content
+- Modify color scheme in `styles.css` (primary color: `#0052cc`)
+- Replace `profile.jpg` with your photo
+
+### Social Links:
+Update the social media links in the Contact section:
+```html
+<a href="your-linkedin-url" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
